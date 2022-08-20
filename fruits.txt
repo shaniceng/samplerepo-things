@@ -2,4 +2,3 @@ apples
 berries
 cherries
 banana
-orange
